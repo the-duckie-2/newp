@@ -7,3 +7,6 @@ import (
 func init() {
 	fmt.Printf("hi2")
 }
+func ByeWorld() {
+	fmt.Printf("bbyebye")
+}
